@@ -1,5 +1,5 @@
 {
-  "name": "my-todolist",
+  "name": "vrd-todolist",
   "version": "0.1.0",
   "dependencies": {
     "body-parser": "^1.16.0",
