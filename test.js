@@ -1,7 +1,7 @@
 // Requiring module
 const assert = require('assert');
 
-// We can group similar tests inside a describe block
+// We can group similar tests inside a describe block.
 describe("Simple Calculations", () => {
 before(() => {
 	console.log( "This part executes once before all tests" );
